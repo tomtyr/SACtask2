@@ -1,0 +1,11 @@
+C:\Users\tomty\source\repos\SACtask2\SACtask2\obj\Debug\SACtask2.csproj.AssemblyReference.cache
+C:\Users\tomty\source\repos\SACtask2\SACtask2\obj\Debug\SACtask2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomty\source\repos\SACtask2\SACtask2\obj\Debug\SACtask2.Form1.resources
+C:\Users\tomty\source\repos\SACtask2\SACtask2\obj\Debug\SACtask2.Properties.Resources.resources
+C:\Users\tomty\source\repos\SACtask2\SACtask2\obj\Debug\SACtask2.csproj.GenerateResource.cache
+C:\Users\tomty\source\repos\SACtask2\SACtask2\obj\Debug\SACtask2.csproj.CoreCompileInputs.cache
+C:\Users\tomty\source\repos\SACtask2\SACtask2\bin\Debug\SACtask2.exe.config
+C:\Users\tomty\source\repos\SACtask2\SACtask2\bin\Debug\SACtask2.exe
+C:\Users\tomty\source\repos\SACtask2\SACtask2\bin\Debug\SACtask2.pdb
+C:\Users\tomty\source\repos\SACtask2\SACtask2\obj\Debug\SACtask2.exe
+C:\Users\tomty\source\repos\SACtask2\SACtask2\obj\Debug\SACtask2.pdb
